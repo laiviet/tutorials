@@ -1,3 +1,9 @@
+# Run a script as deamon
+```
+nohup ./yourscript.sh 0<&- &>/dev/null &
+```
+
+
 # Screen 
 
 Create a screen session:

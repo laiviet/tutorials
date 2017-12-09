@@ -2,11 +2,11 @@
 
 
 ## Install common softwares
-Download [Google Chrome]()
+Download [Google Chrome](https://www.google.com/chrome/)
 
-Download [GoTiengViet]()
+Download [GoTiengViet](http://www.trankynam.com/gotv/)
 
-Login to [Microsoft Office 365]()
+Login to [Microsoft Office 365](https://login.microsoftonline.com/)
 []()
 []()
 
@@ -25,3 +25,29 @@ Download [Sublime Text](https://download.sublimetext.com/Sublime%20Text%20Build%
 Download [TexStudio](https://sourceforge.net/projects/texstudio/?source=typ_redirect)
 
 Download [Matlab](https://www.mathworks.com/products/matlab.html)
+
+
+## Install programming environment
+
+Generate and setup [SSH key](https://github.com/laiviet/tutorials/blob/master/ssh-key.md)
+
+Create alias for bash
+```
+alias sshuv=“ssh username@uv“
+```
+
+Install python environment
+```
+conda create -n py27 python=2.7
+source activate py27
+pip install numpy scipy scikit-learn nltk pyyaml
+pip install theano tensorflow
+pip install keras sklearn
+```
+```
+conda create -n py35 python=3.5
+source activate py35
+pip install numpy scipy scikit-learn nltk pyyaml
+pip install theano tensorflow
+pip install keras sklearn
+```

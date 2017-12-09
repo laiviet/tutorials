@@ -13,12 +13,12 @@ echo -e '#!/bin/bash \njava -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCore
 chmod +x startserver.sh
 ```
 
-Start the server on interactive mode
+Start the server in interactive mode
 ```
 ./startserver.sh
 ```
 
-Start the server on deamon mode
+Start the server as deamon
 ```
 nohup ./startserver.sh 0<&- &>/dev/null &
 ```

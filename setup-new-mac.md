@@ -4,11 +4,12 @@
 ## Install common softwares
 Download [Google Chrome](https://www.google.com/chrome/)
 
+Download [Mozilla Firefox](https://www.mozilla.org/en-US//)
+
 Download [GoTiengViet](http://www.trankynam.com/gotv/)
 
 Login to [Microsoft Office 365](https://login.microsoftonline.com/)
-[]()
-[]()
+
 
 ## Install programing software
 

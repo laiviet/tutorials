@@ -33,7 +33,7 @@ sudo vi /etc/profile.d/zzz-default-env.sh
 ## Set up environment variable and bash profile
 
 ```
-sudo vi $HOME/.bashrc
+vi $HOME/.bashrc
 ```
 
 ## Install python packages

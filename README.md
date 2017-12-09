@@ -1,4 +1,4 @@
 # tutorials
-All notes for common command, tricks, tips
+All common commands, tricks, tips
 
 

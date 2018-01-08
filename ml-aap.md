@@ -13,5 +13,9 @@
 9. Tại sao phải sd bias?
 10. Bản chất của việc tìm ra các vector trọng số là gì?
 
+BTVN
+
+1. Làm bài 3.7
+2. Làm bài 3.10
 
 

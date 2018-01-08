@@ -8,7 +8,10 @@ Download [Mozilla Firefox](https://www.mozilla.org/en-US//)
 
 Download [GoTiengViet](http://www.trankynam.com/gotv/)
 
+Download [iTerm2](https://www.iterm2.com/downloads.html)
+
 Login to [Microsoft Office 365](https://login.microsoftonline.com/)
+
 
 
 ## Install programing software

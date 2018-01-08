@@ -1,6 +1,6 @@
-# Question for ML-AAP
+# Câu hỏi cho cuốn ML-AAP
 
-## Chapter 3:
+## Chương 3:
 
 1. Giả thuyết của Hebb là gì?
 2. Hiện tượng sint học nào dẫn đến giả thuyết đó? 

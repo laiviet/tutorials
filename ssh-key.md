@@ -5,7 +5,7 @@ Generate key
 ssh-keygen -t rsa -b 4096 
 ```
 
-Copy ID to server
+Copy key to server
 ```
 ssh-copy-id -i ~/.ssh/mykey user@host
 ```

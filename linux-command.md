@@ -3,6 +3,13 @@
 nohup ./yourscript.sh 0<&- &>/dev/null &
 ```
 
+# Wget
+
+Download all the files in an online directory without downloading the parent directory
+```
+wget -r --no-parent <URL>
+```
+
 
 # Screen 
 

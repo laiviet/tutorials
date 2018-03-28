@@ -11,5 +11,5 @@ ssh-keygen -t rsa -b 4096
 
 Copy key to server
 ```
-ssh-copy-id -i ~/.ssh/mykey user@host
+ssh-copy-id -i ~/.ssh/mykey.pub user@host
 ```

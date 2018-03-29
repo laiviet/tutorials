@@ -55,3 +55,11 @@ pip install numpy scipy scikit-learn nltk pyyaml
 pip install theano tensorflow
 pip install keras sklearn
 ```
+
+
+## Install homebrew, wget
+
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install wget --with-libressl
+```

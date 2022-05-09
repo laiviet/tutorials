@@ -20,8 +20,9 @@ csrutil status
 
 4. Restart the machine, and enter Recovery mode again
 
-5. Delete kext in ``/Volume/MacOS/System/Library/Extentions`` folder, not ``/System/Library/Extentions``
+5. Delete kext:
 ```
+cd /Volume/MacOS/System/Library/Extentions
 rm -rf AppleIntelKBLGraphics.kext
 ```
 
